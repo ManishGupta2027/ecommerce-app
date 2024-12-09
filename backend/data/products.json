@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://images.samsung.com/is/image/samsung/assets/levant/galaxy-5g/life-in-5g/All_PCD_Smartphones_448X488_Canvas_primary_C2_Bronze.png?$220_240_PNG$",
     "name": "Product 1",
     "description": "Description of Product 1",
     "price": 100,
@@ -23,7 +23,7 @@
   },
   {
     "id": 2,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://images.samsung.com/is/image/samsung/assets/levant/galaxy-5g/life-in-5g/448x488_2.png?$220_240_PNG$",
     "name": "Product 2",
     "description": "Description of Product 2",
     "price": 100,
@@ -45,7 +45,7 @@
   },
   {
     "id": 3,
-    "image": "https://via.placeholder.com/150",
+    "image": "https://images.samsung.com/is/image/samsung/assets/levant/galaxy-5g/q2_primaryselection_pc_220x240.png?$220_240_PNG$",
     "name": "Product 3",
     "description": "Description of Product 3",
     "price": 300,
